@@ -1,2 +1,4 @@
 My ZSH Theme
 --------------
+
+Its pretty
